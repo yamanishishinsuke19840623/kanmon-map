@@ -4195,6 +4195,36 @@
       "sourceLicense": "ODbL 1.0",
       "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
       "evidence": "記事住所「中之町1-1」・本文「亀山八幡宮のお亀ぎんなん」とOSM amenity=place_of_worship「亀山八幡宮」（既存掲載地点）（OSM名称：亀山八幡宮）"
+    },
+    {
+      "id": 17564,
+      "title": "ナンダンの新店舗が出来たって知ってた？「ナンダン カモンワーフ店」だけの新メニューは、ナンがあれに変身！！",
+      "url": "https://www.kanmonnote.com/nandan-kamonwharf/",
+      "date": "2018-11-13",
+      "place": "ナンダン カモンワーフ店（カモンワーフ）",
+      "address": "下関市唐戸町6-1 カモンワーフ1F",
+      "lat": 33.9562722,
+      "lon": 130.9441078,
+      "category": "グルメ",
+      "categories": [
+        "グルメ"
+      ],
+      "summary": "カモンワーフにあるナンダンを紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/relation/16559306",
+      "locationAccuracy": "記事で入居先・所在を確認した施設（カモンワーフ）の中心。店舗の入口・区画位置ではありません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2018/11/1AC8F4E2-C3B7-48F0-85FC-E004E416159F.jpeg",
+      "area": "下関",
+      "matchMethod": "記事の入居施設名・住所とOSM施設名の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "facility": "カモンワーフ",
+      "evidence": "記事の住所欄「下関市唐戸町6-1 カモンワーフ1F」。閉店記事39612は唐戸店と区別し「今はカモンワーフ１店舗だけ経営」と記載。カモンワーフ公式店舗案内にも掲載。",
+      "evidenceUrls": [
+        "https://www.kanmonnote.com/nandan-kamonwharf/",
+        "https://www.kanmonnote.com/nandan-close/",
+        "https://kamonwharf.com/shoplist/nandan/"
+      ]
     }
   ],
   "dataLicense": {
@@ -4387,11 +4417,6 @@
       "id": 3996,
       "title": "【閉店】関門トンネル人道歩いて疲れたら「若松屋」で休憩してはどうでしょう？",
       "reason": "閉店・移転等の過去情報"
-    },
-    {
-      "id": 17564,
-      "title": "ナンダン カモンワーフ店の紹介",
-      "reason": "後年の閉店記事39612と照合し除外"
     }
   ],
   "verification": "全1,540記事の公開APIを解析し、OSM名称照合後に候補のタイトル・店舗情報と施設包含関係を確認。Google座標転用なし。"
