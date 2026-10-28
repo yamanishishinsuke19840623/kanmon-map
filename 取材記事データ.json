@@ -4225,6 +4225,166 @@
         "https://www.kanmonnote.com/nandan-close/",
         "https://kamonwharf.com/shoplist/nandan/"
       ]
+    },
+    {
+      "id": 1070,
+      "title": "「柳川水産」でフクと新鮮な魚介類の贅沢朝ごはん",
+      "url": "https://www.kanmonnote.com/yanagawa/",
+      "date": "2017-12-02",
+      "place": "柳川水産（唐戸市場）",
+      "address": "下関市唐戸町5-50",
+      "lat": 33.95663185,
+      "lon": 130.94579655,
+      "category": "グルメ",
+      "categories": [
+        "グルメ"
+      ],
+      "summary": "唐戸市場を紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/way/221599486",
+      "locationAccuracy": "記事で所在を確認した施設（唐戸市場）全体の中心。入口・個別区画の位置ではありません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2017/11/柳川親子.jpg",
+      "area": "下関",
+      "matchMethod": "公開記事の施設名・入居情報・住所とOSM施設原本の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "facility": "唐戸市場",
+      "evidence": "記事本文見出し「唐戸市場の中の老舗、柳川水産」と住所「唐戸町5-50」を確認。移転の記述は2001年の市場全体の移転の歴史で、店舗閉店を示さない。"
+    },
+    {
+      "id": 8119,
+      "title": "試食しないと買えない！？食いにげ自由の干物店「じじや」",
+      "url": "https://www.kanmonnote.com/jijiya/",
+      "date": "2018-03-18",
+      "place": "じじや 門司港店（海峡プラザ）",
+      "address": "北九州市門司区港町4-1 海峡プラザ東館1F",
+      "lat": 33.9459073,
+      "lon": 130.9637619,
+      "category": "お店（飲食以外）",
+      "categories": [
+        "お店（飲食以外）"
+      ],
+      "summary": "海峡プラザを紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/way/269985648",
+      "locationAccuracy": "記事で所在を確認した施設（海峡プラザ）全体の中心。入口・個別区画の位置ではありません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2018/03/DSC_3200.jpg",
+      "area": "門司港",
+      "matchMethod": "公開記事の施設名・入居情報・住所とOSM施設原本の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "facility": "海峡プラザ",
+      "evidence": "記事店舗欄に「海峡プラザ東館1F」「北九州市門司区港町4-1」と明記。"
+    },
+    {
+      "id": 29578,
+      "title": "まるで野外ジム！下関運動公園内にある「リフレッシュ広場」にいこう！",
+      "url": "https://www.kanmonnote.com/refresh-park/",
+      "date": "2020-08-07",
+      "place": "リフレッシュ広場（下関運動公園）",
+      "address": "下関市上田中町7丁目14",
+      "lat": 33.9656345,
+      "lon": 130.9324903,
+      "category": "公園",
+      "categories": [
+        "公園"
+      ],
+      "summary": "下関運動公園を紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/way/484471677",
+      "locationAccuracy": "記事で所在を確認した施設（下関運動公園）全体の中心。入口・個別区画の位置ではありません。リフレッシュ広場そのものの位置ではありません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2020/08/DF27A517-FD83-4E5B-B497-2214C8D839C7.jpeg",
+      "area": "下関",
+      "matchMethod": "公開記事の施設名・入居情報・住所とOSM施設原本の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "facility": "下関運動公園",
+      "evidence": "記事施設欄に「下関運動公園内 リフレッシュ広場」と明記。"
+    },
+    {
+      "id": 37243,
+      "title": "スケール凄すぎない？ 「神戸製鋼所」の下関メガ工場に、初潜入！",
+      "url": "https://www.kanmonnote.com/kobeseiko/",
+      "date": "2022-10-05",
+      "place": "神戸製鋼所 長府製造所（敷地中心）",
+      "address": "下関市長府港町14-1",
+      "lat": 33.9988752,
+      "lon": 130.9949845,
+      "category": "その他",
+      "categories": [
+        "その他"
+      ],
+      "summary": "神戸製鋼所・長府製造所への施設取材記事です。記事掲載時は一般見学を行っていないと記載されています。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/way/485368922",
+      "locationAccuracy": "記事で所在を確認した施設（神戸製鋼所 長府製造所）全体の中心。入口・個別区画の位置ではありません。一般立入りの可否を示すものではありません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2022/09/IMG_6041.jpg",
+      "area": "長府",
+      "matchMethod": "公開記事の施設名・入居情報・住所とOSM施設原本の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "facility": "神戸製鋼所 長府製造所",
+      "evidence": "OSM原本の神戸製鋼の敷地と、記事主題の長府製造所、住所「長府港町14-1」を照合。KOBELCO公式国内事業所一覧でも名称・所在地確認。",
+      "evidenceUrls": [
+        "https://www.kanmonnote.com/kobeseiko/",
+        "https://www.kobelco.co.jp/about-kobelco/domestic-location.html",
+        "https://www.pref.yamaguchi.lg.jp/soshiki/37/16615.html"
+      ]
+    },
+    {
+      "id": 38841,
+      "title": "工場見学で魅了される「銅」の美しさとは!?KOBELCO長府製造所",
+      "url": "https://www.kanmonnote.com/kobelco/",
+      "date": "2023-01-17",
+      "place": "神戸製鋼所 長府製造所（敷地中心）",
+      "address": "下関市長府港町14-1",
+      "lat": 33.9988752,
+      "lon": 130.9949845,
+      "category": "その他",
+      "categories": [
+        "その他"
+      ],
+      "summary": "神戸製鋼所・長府製造所への施設取材記事です。記事掲載時は一般見学を行っていないと記載されています。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/way/485368922",
+      "locationAccuracy": "記事で所在を確認した施設（神戸製鋼所 長府製造所）全体の中心。入口・個別区画の位置ではありません。一般立入りの可否を示すものではありません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2023/01/hyousi.jpg",
+      "area": "長府",
+      "matchMethod": "公開記事の施設名・入居情報・住所とOSM施設原本の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "facility": "神戸製鋼所 長府製造所",
+      "evidence": "OSM原本の神戸製鋼の敷地と、記事主題の長府製造所、住所「長府港町14-1」を照合。KOBELCO公式国内事業所一覧でも名称・所在地確認。",
+      "evidenceUrls": [
+        "https://www.kanmonnote.com/kobelco/",
+        "https://www.kobelco.co.jp/about-kobelco/domestic-location.html",
+        "https://www.pref.yamaguchi.lg.jp/soshiki/37/16615.html"
+      ]
+    },
+    {
+      "id": 24449,
+      "title": "【リニューアル】めかり公園！門司港の子連れスポット！ドライブやピクニックにも！",
+      "url": "https://www.kanmonnote.com/mekari-park/",
+      "date": "2019-12-23",
+      "place": "和布刈公園（公園全体の中心）",
+      "address": "北九州市門司区大字門司",
+      "lat": 33.958209,
+      "lon": 130.9664824,
+      "category": "公園",
+      "categories": [
+        "公園"
+      ],
+      "summary": "和布刈公園を紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/relation/19120297",
+      "locationAccuracy": "記事で所在を確認した施設（和布刈公園）全体の中心。入口・個別区画の位置ではありません。記事中の遊具広場・第一展望台そのものの位置ではありません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2019/12/image002-14222594141212119382.jpg",
+      "area": "門司港",
+      "matchMethod": "公開記事の施設名・入居情報・住所とOSM施設原本の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "facility": "和布刈公園",
+      "evidence": "OSM原本の和布刈公園と、記事の公園名・所在地「門司区大字門司」を照合。記事中の遊具は第一展望台の隣だが、公園全体の中心で表示する。"
     }
   ],
   "dataLicense": {
