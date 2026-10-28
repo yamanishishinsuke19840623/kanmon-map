@@ -4385,6 +4385,90 @@
       "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
       "facility": "和布刈公園",
       "evidence": "OSM原本の和布刈公園と、記事の公園名・所在地「門司区大字門司」を照合。記事中の遊具は第一展望台の隣だが、公園全体の中心で表示する。"
+    },
+    {
+      "id": 2487,
+      "title": "三世代にわたって通うお店！みんな大好き！「こがねむし」の焼きカレー",
+      "url": "https://www.kanmonnote.com/koganemushi/",
+      "date": "2017-12-10",
+      "place": "こがねむし",
+      "address": "北九州市門司区東本町1-1-24",
+      "lat": 33.9469054,
+      "lon": 130.9664534,
+      "category": "グルメ",
+      "categories": [
+        "グルメ",
+        "焼きカレー"
+      ],
+      "summary": "門司港のこがねむしで焼きカレーを取材した記事です。掲載当時の様子は記事本文でご覧ください。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/node/12894188299",
+      "locationAccuracy": "OSMに登録された店舗の点。入口の位置を保証するものではありません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2017/12/koganemushi07.jpg",
+      "area": "門司港",
+      "matchMethod": "記事店名・住所とOSM店舗名称・位置の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "evidence": "記事店舗欄「北九州市門司区東本町1-1-24」「093-332-2585」とOSM node/12894188299「焼きカレー＆ハヤシ こがねむし」を照合。OSMは住所タグなし。候補抽出の住所照合距離9mと門司港グルメ会の同住所・同電話掲載で補強。座標はOSM原本の緯度経度を使用。",
+      "supportingSourceUrl": "https://www.mojiko.info/eat/koganemushi.html"
+    },
+    {
+      "id": 15776,
+      "title": "「名門大洋フェリー」に乗って旅に出た理由",
+      "url": "https://www.kanmonnote.com/taiyo-ferry/",
+      "date": "2018-08-24",
+      "place": "名門大洋フェリー 新門司港フェリーターミナル",
+      "address": "北九州市門司区新門司1-6",
+      "lat": 33.8711939,
+      "lon": 130.9854841,
+      "category": "その他",
+      "categories": [
+        "その他"
+      ],
+      "summary": "名門大洋フェリーの新門司港と大阪南港を往復した乗船体験の記事です。地図は新門司港ターミナルを示します。掲載当時の内容を本文で読めます。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/way/684889745",
+      "locationAccuracy": "記事で出発港・撮影場所を確認した新門司港ターミナル建物の中心。会社事務所や航路上・船舶現在位置ではなく、入口・乗船口を示しません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2018/08/2018-08-15-19.08.14-2.jpg",
+      "area": "門司",
+      "matchMethod": "記事本文と公式施設情報による主題・施設包含関係の確認、OSM施設中心の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "facility": "名門大洋フェリー 新門司港フェリーターミナル",
+      "evidence": "記事本文が新門司港と大阪南港の往復乗船体験を主題とし、新門司港フェリーターミナルでの撮影を明記。記事住所は北九州市門司区新門司1-6。名門大洋フェリー公式の新門司港のりば住所も新門司1丁目6。自動候補の会社支店office node6417123636を使わず、OSM amenity=ferry_terminalの建物way684889745の中心に修正。",
+      "evidenceUrls": [
+        "https://www.kanmonnote.com/taiyo-ferry/",
+        "https://www.cityline.co.jp/terminal/kyushu"
+      ]
+    },
+    {
+      "id": 24980,
+      "title": "幕末期に築城された城郭遺る「勝山御殿(かつやまごてん）」",
+      "url": "https://www.kanmonnote.com/katsuyama-goten/",
+      "date": "2020-03-24",
+      "place": "勝山御殿跡（勝山地区公園）",
+      "address": "下関市大字田倉",
+      "lat": 34.0215674,
+      "lon": 130.972362,
+      "category": "観光",
+      "categories": [
+        "観光"
+      ],
+      "summary": "勝山地区公園内にある勝山御殿跡を訪ねた記事です。掲載当時の石垣や広場の紹介を本文で読めます。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "locationSource": "https://www.openstreetmap.org/way/1000064817",
+      "locationAccuracy": "記事と下関市公式資料で史跡が園内にあることを確認した勝山地区公園全体の中心。石垣・史跡境界・入口そのものの位置ではありません。",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2020/01/32165B1A-07F0-429D-8C6F-EAE36673F8DB.jpeg",
+      "area": "下関",
+      "matchMethod": "記事本文と公式施設情報による主題・施設包含関係の確認、OSM施設中心の照合",
+      "sourceLicense": "ODbL 1.0",
+      "sourceLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "facility": "勝山地区公園",
+      "evidence": "自動候補のnode10795097800はtourism=information/information=boardで史跡本体ではないため不採用。下関市公式の勝山地区公園紹介が園内の勝山御殿跡と明記し、所在地は下関市大字田倉字一の合。記事も大字田倉の勝山御殿跡で石垣・公園内遊具・広場を訪問取材。OSM leisure=park/name勝山地区公園way1000064817の公園全体中心に修正して採用。",
+      "evidenceUrls": [
+        "https://www.kanmonnote.com/katsuyama-goten/",
+        "https://www.city.shimonoseki.lg.jp/soshiki/76/3901.html"
+      ]
     }
   ],
   "dataLicense": {
@@ -4546,7 +4630,12 @@
     {
       "id": 3996,
       "title": "【閉店】関門トンネル人道歩いて疲れたら「若松屋」で休憩してはどうでしょう？",
-      "reason": "閉店・移転等の過去情報"
+      "reason": "位置名称と人道門司側出口付近という本文案内は整合するが、現記事タイトル【閉店】とカテゴリ「閉店」のため除外。OSM restaurantが残っているだけでは営業中と判断しない。"
+    },
+    {
+      "id": 4101,
+      "title": "【閉店】クラシックなパンケーキに会いに「cafe ＆ bar nine」",
+      "reason": "位置名称と電話番号は整合するが、現記事タイトル【閉店】、本文冒頭「※cafe ＆ bar nineは閉店されました」のため除外。OSM amenity=cafe・営業時間記載は閉店情報を覆さない。"
     }
   ],
   "verification": "全1,540記事の公開APIを解析し、OSM名称照合後に候補のタイトル・店舗情報と施設包含関係を確認。Google座標転用なし。"
