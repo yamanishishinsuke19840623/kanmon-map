@@ -1,0 +1,76 @@
+{
+ "note": "地図上の目印ラベル。位置はOpenStreetMap（ODbL 1.0）の登録地点・外形中心。",
+ "license": "ODbL 1.0",
+ "marks": [
+  {
+   "label": "下関駅",
+   "lat": 33.950055174999996,
+   "lon": 130.92297399166668,
+   "kind": "station",
+   "source": "OSM way/802322283（駅ビル リピエ下関の外形中心）"
+  },
+  {
+   "label": "唐戸",
+   "lat": 33.95663185,
+   "lon": 130.94579655,
+   "kind": "area",
+   "source": "OSM way/221599486"
+  },
+  {
+   "label": "海峡ゆめタワー",
+   "lat": 33.94979906,
+   "lon": 130.92971912,
+   "kind": "spot",
+   "source": "OSM way/550189992"
+  },
+  {
+   "label": "赤間神宮",
+   "lat": 33.9599899,
+   "lon": 130.9483592,
+   "kind": "spot",
+   "source": "OSM way/320351701"
+  },
+  {
+   "label": "関門橋",
+   "lat": 33.961446,
+   "lon": 130.9591534,
+   "kind": "bridge",
+   "source": "OSM node/5603043145"
+  },
+  {
+   "label": "火の山",
+   "lat": 33.9743934,
+   "lon": 130.9606467,
+   "kind": "spot",
+   "source": "OSM node/5909706137"
+  },
+  {
+   "label": "巌流島",
+   "lat": 33.9360114,
+   "lon": 130.9289994,
+   "kind": "spot",
+   "source": "OSM node/2931112165"
+  },
+  {
+   "label": "門司港駅",
+   "lat": 33.9451159,
+   "lon": 130.9614466,
+   "kind": "station",
+   "source": "OSM relation/2532442"
+  },
+  {
+   "label": "和布刈神社",
+   "lat": 33.9606418,
+   "lon": 130.9622696,
+   "kind": "spot",
+   "source": "OSM way/687938048"
+  },
+  {
+   "label": "功山寺（長府）",
+   "lat": 33.9960543,
+   "lon": 130.98193559999999,
+   "kind": "spot",
+   "source": "OSM way/382967845"
+  }
+ ]
+}

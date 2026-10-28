@@ -1,0 +1,145 @@
+[
+  {
+    "name": "唐戸市場",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "唐戸市場",
+    "lon": 130.94579655,
+    "lat": 33.95663185,
+    "d": 1.3,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM way/221599486"
+  },
+  {
+    "name": "赤間神宮",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "赤間神宮",
+    "lon": 130.9483592,
+    "lat": 33.9599899,
+    "d": 1.3,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM way/320351701"
+  },
+  {
+    "name": "海響館",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "海響館",
+    "lon": 130.9423827,
+    "lat": 33.954422550000004,
+    "d": 1.3,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM way/221599485"
+  },
+  {
+    "name": "海峡ゆめタワー",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "海峡ゆめタワー",
+    "lon": 130.92971912,
+    "lat": 33.94979906,
+    "d": 1.3,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM way/550189992"
+  },
+  {
+    "name": "功山寺",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "功山寺",
+    "lon": 130.98193559999999,
+    "lat": 33.9960543,
+    "d": 1.3,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM way/382967845"
+  },
+  {
+    "name": "角島灯台",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "角島灯台",
+    "lon": 130.84104904999998,
+    "lat": 34.3524941,
+    "d": 2.6,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM way/669623167"
+  },
+  {
+    "name": "川棚温泉",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "川棚温泉",
+    "lon": 130.94002949999998,
+    "lat": 34.137715799999995,
+    "d": 2.6,
+    "desc": "川棚温泉交流センターを目印に、温泉街の地形を眺める。",
+    "poi": true,
+    "source": "OSM way/713427950"
+  },
+  {
+    "name": "豊田ホタルの里ミュージアム",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "豊田ホタルの里ミュージアム",
+    "lon": 131.07836915000001,
+    "lat": 34.19819545,
+    "d": 2.6,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM way/1126812732"
+  },
+  {
+    "name": "巌流島",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "巌流島",
+    "lon": 130.9289994,
+    "lat": 33.9360114,
+    "d": 1.3,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM node/2931112165"
+  },
+  {
+    "name": "毘沙ノ鼻",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "毘沙ノ鼻",
+    "lon": 130.8623593,
+    "lat": 34.1100905,
+    "d": 2.6,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM node/920270977"
+  },
+  {
+    "name": "長府庭園",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "長府庭園",
+    "lon": 130.9890162,
+    "lat": 33.990719549999994,
+    "d": 1.3,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM way/485366609"
+  },
+  {
+    "name": "旧下関英国領事館",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "旧下関英国領事館",
+    "lon": 130.9431845,
+    "lat": 33.9569379,
+    "d": 1.3,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM node/5514642022"
+  },
+  {
+    "name": "カモンワーフ",
+    "en": "SHIMONOSEKI / LANDMARK",
+    "title": "カモンワーフ",
+    "lon": 130.9441078,
+    "lat": 33.9562722,
+    "d": 1.3,
+    "desc": "海峡から山あいまで。実際の地形と、登録された街の輪郭をたどる。",
+    "poi": true,
+    "source": "OSM relation/16559306"
+  }
+]

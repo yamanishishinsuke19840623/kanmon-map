@@ -1,0 +1,222 @@
+[
+ {
+  "name": "門司港駅",
+  "en": "MOJI / LANDMARK",
+  "title": "門司港駅",
+  "lon": 130.9614466,
+  "lat": 33.9451159,
+  "d": 1.1,
+  "desc": "大正期の駅舎が残る、門司港レトロの玄関口。",
+  "poi": true,
+  "source": "OSM relation/2532442"
+ },
+ {
+  "name": "旧門司税関",
+  "en": "MOJI / LANDMARK",
+  "title": "旧門司税関",
+  "lon": 130.9635844,
+  "lat": 33.947733,
+  "d": 1.1,
+  "desc": "海峡に面したれんが造りの旧税関庁舎。",
+  "poi": true,
+  "source": "OSM way/976479446"
+ },
+ {
+  "name": "旧門司三井倶楽部",
+  "en": "MOJI / LANDMARK",
+  "title": "旧門司三井倶楽部",
+  "lon": 130.9625755,
+  "lat": 33.9457306,
+  "d": 1.1,
+  "desc": "門司港駅前に建つ木造の洋館。",
+  "poi": true,
+  "source": "OSM way/627252021"
+ },
+ {
+  "name": "旧大阪商船",
+  "en": "MOJI / LANDMARK",
+  "title": "旧大阪商船",
+  "lon": 130.9622371,
+  "lat": 33.9461299,
+  "d": 1.1,
+  "desc": "八角形の塔をもつ港の歴史建築。",
+  "poi": true,
+  "source": "OSM way/627252015"
+ },
+ {
+  "name": "ブルーウィングもじ",
+  "en": "MOJI / LANDMARK",
+  "title": "ブルーウィングもじ",
+  "lon": 130.9627425,
+  "lat": 33.9478012,
+  "d": 1.1,
+  "desc": "門司港レトロの歩行者用はね橋。",
+  "poi": true,
+  "source": "OSM way/1226176317"
+ },
+ {
+  "name": "門司港レトロ展望室",
+  "en": "MOJI / LANDMARK",
+  "title": "門司港レトロ展望室",
+  "lon": 130.9641434,
+  "lat": 33.9484316,
+  "d": 1.1,
+  "desc": "高層住宅の上階から海峡と港を見渡す展望室。",
+  "poi": true,
+  "source": "OSM node/2959854421"
+ },
+ {
+  "name": "九州鉄道記念館",
+  "en": "MOJI / LANDMARK",
+  "title": "九州鉄道記念館",
+  "lon": 130.9619156,
+  "lat": 33.9432942,
+  "d": 1.1,
+  "desc": "門司港駅の近くにある鉄道の博物館。",
+  "poi": true,
+  "source": "OSM way/32387865"
+ },
+ {
+  "name": "関門海峡ミュージアム",
+  "en": "MOJI / LANDMARK",
+  "title": "関門海峡ミュージアム",
+  "lon": 130.9567826,
+  "lat": 33.9437996,
+  "d": 1.1,
+  "desc": "海峡の歴史と港の暮らしを伝える施設。",
+  "poi": true,
+  "source": "OSM way/969230646"
+ },
+ {
+  "name": "和布刈神社",
+  "en": "MOJI / LANDMARK",
+  "title": "和布刈神社",
+  "lon": 130.9622696,
+  "lat": 33.9606418,
+  "d": 1.1,
+  "desc": "早鞆の瀬戸に面し、対岸の下関を望む神社。",
+  "poi": true,
+  "source": "OSM way/687938048"
+ },
+ {
+  "name": "和布刈公園",
+  "en": "MOJI / LANDMARK",
+  "title": "和布刈公園",
+  "lon": 130.9664824,
+  "lat": 33.958209,
+  "d": 1.1,
+  "desc": "関門橋と海峡を見下ろす高台の公園。",
+  "poi": true,
+  "source": "OSM relation/19120297"
+ },
+ {
+  "name": "旧大連航路上屋",
+  "en": "MOJI / LANDMARK",
+  "title": "旧大連航路上屋",
+  "lon": 130.95751392,
+  "lat": 33.94357002,
+  "d": 1.1,
+  "desc": "大連航路の待合室として使われた港の上屋。",
+  "poi": true,
+  "source": "OSM way/969230656"
+ },
+ {
+  "name": "大連友好記念館",
+  "en": "MOJI / LANDMARK",
+  "title": "大連友好記念館",
+  "lon": 130.96415402,
+  "lat": 33.9480691,
+  "d": 1.1,
+  "desc": "大連市の建物を模した、れんが色の記念館。",
+  "poi": true,
+  "source": "OSM way/823695331"
+ },
+ {
+  "name": "旧三井物産門司支店",
+  "en": "MOJI / LANDMARK",
+  "title": "旧三井物産門司支店",
+  "lon": 130.96205056,
+  "lat": 33.94507254,
+  "d": 1.1,
+  "desc": "昭和11年の建物。現在はJR九州の庁舎。",
+  "poi": true,
+  "source": "OSM way/627252024"
+ },
+ {
+  "name": "北九州銀行門司支店",
+  "en": "MOJI / LANDMARK",
+  "title": "北九州銀行門司支店",
+  "lon": 130.96361095,
+  "lat": 33.94435779,
+  "d": 1.1,
+  "desc": "景観重要建造物に指定された銀行建築。",
+  "poi": true,
+  "source": "OSM way/630686925"
+ },
+ {
+  "name": "新門司フェリーターミナル",
+  "en": "MOJI / LANDMARK",
+  "title": "新門司フェリーターミナル",
+  "lon": 130.99004289,
+  "lat": 33.88525459,
+  "d": 1.1,
+  "desc": "長距離フェリーの発着ターミナル。",
+  "poi": true,
+  "source": "OSM way/292391840"
+ },
+ {
+  "name": "関門トンネル人道 門司側",
+  "en": "MOJI / LANDMARK",
+  "title": "関門トンネル人道",
+  "lon": 130.9629992,
+  "lat": 33.9612432,
+  "d": 1.1,
+  "desc": "海峡の下を歩いて下関へ渡る人道の入口。",
+  "poi": true,
+  "source": "OSM way/90115760"
+ },
+ {
+  "name": "関門トンネル人道 下関側",
+  "en": "SHIMONOSEKI / LANDMARK",
+  "title": "関門トンネル人道",
+  "lon": 130.95601845,
+  "lat": 33.96547905,
+  "d": 1.1,
+  "desc": "みもすそ川側の人道入口。門司へ歩いて渡れる。",
+  "poi": true,
+  "source": "OSM way/93475593"
+ },
+ {
+  "name": "日清講和記念館",
+  "en": "SHIMONOSEKI / LANDMARK",
+  "title": "日清講和記念館",
+  "lon": 130.94833184,
+  "lat": 33.9590428,
+  "d": 1.1,
+  "desc": "春帆楼の隣、講和会議の歴史を伝える記念館。",
+  "poi": true,
+  "source": "OSM way/552006984"
+ },
+ {
+  "name": "火の山",
+  "en": "SHIMONOSEKI / LANDMARK",
+  "title": "火の山",
+  "lon": 130.9606467,
+  "lat": 33.9743934,
+  "d": 1.1,
+  "desc": "関門海峡と両岸の街を一望する山頂。",
+  "poi": true,
+  "source": "OSM node/5909706137"
+ },
+ {
+  "name": "はい！からっと横丁 観覧車",
+  "en": "SHIMONOSEKI / LANDMARK",
+  "title": "はい！からっと横丁",
+  "lon": 130.9414022,
+  "lat": 33.9530784,
+  "d": 1.1,
+  "desc": "唐戸の海辺に立つ観覧車。位置はOSMの観覧車地点。",
+  "poi": true,
+  "source": "OSM node/11288510331"
+ }
+]

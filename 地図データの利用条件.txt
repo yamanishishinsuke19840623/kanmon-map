@@ -1,0 +1,13 @@
+OSM由来データの利用条件
+© OpenStreetMap contributors
+https://www.openstreetmap.org/copyright
+Open Database License (ODbL) 1.0
+https://opendatacommons.org/licenses/odbl/1-0/
+
+対象：実建物.json、門司建物.json、橋の線形.json、観光地データ.json、追加観光地データ.jsonのOSM由来データ。
+加工者：かんもんノート。
+建物は外形・属性を抽出し座標を丸め、高さ属性または階数×3mを採用。高さ不明は6mを仮定。
+橋・観光地点はOSMの形状・座標・属性から抽出・整理。独自の表示文・演出は区別されます。
+これらのOSM派生データベースはODbL 1.0に基づき提供します。元の帰属表示を保持してください。
+同一フォルダのJSONファイルが機械可読データです。地図画面の「データと利用条件」から取得できます。
+国土地理院の画像・標高、Three.js、記事本文にODbLを一律適用するものではありません。
