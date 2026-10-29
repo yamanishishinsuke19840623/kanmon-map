@@ -17,7 +17,9 @@
       h+='<p class="kmap-sub">この近くの取材記事</p><ul class="kmap-list">'+items.map(function(x){
         return '<li><a class="kmap-item" data-kmap="nearby" href="'+esc(x.url)+'">'+(x.img&&ok(x.img)?'<img src="'+esc(x.img)+'" alt="" loading="lazy" width="72" height="54">':'')+'<span><span class="kmap-title">'+esc(x.title)+'</span><span class="kmap-meta">'+x.meta+'</span></span></a></li>'}).join('')+'</ul>';
     }
-    h+='<p class="kmap-note">位置は記事掲載時の情報をもとにしています。お出かけ前に最新の営業情報をご確認ください。</p>';
+    if(d.townUrl&&ok(d.townUrl))h+='<p class="kmap-sub"><a data-kmap="town" href="'+esc(d.townUrl)+'" target="_blank" rel="noopener">'+esc(d.town)+'の取材記録をすべて見る</a></p>';
+    var rep='https://www.kanmonnote.com/ima-no-joho/?place='+encodeURIComponent(d.place||'')+'&article='+encodeURIComponent(location.origin+location.pathname);
+    h+='<p class="kmap-note">位置は記事掲載時の情報をもとにしています。お出かけ前に最新の営業情報をご確認ください。閉店・移転などに気づいたら<a data-kmap="report" href="'+esc(rep)+'">今の状況を知らせる</a>からお知らせください。</p>';
     var box=document.createElement('section');box.className='kmap-box';box.setAttribute('aria-label','取材先3Dマップ');box.innerHTML=h;
     box.addEventListener('click',function(e){var a=e.target.closest('a[data-kmap]');if(a)track(a.getAttribute('data-kmap'))});
     main.parentNode.insertBefore(box,main.nextSibling);
