@@ -14908,32 +14908,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     130.918893,
-     34.018992
-    ]
-   },
-   "properties": {
-    "id": 38231,
-    "title": "【開店】スイーツ界のクリエイター集団が下関に！ALLEY(アレイ)、あのフルーツサンド「ダイワ」も中国地方初出店。",
-    "url": "https://www.kanmonnote.com/open_alley/",
-    "date": "2022-11-29",
-    "place": "ALLEY",
-    "address": "下関市富任町1丁目6-5",
-    "town": "富任町",
-    "area": "下関",
-    "category": "カフェ",
-    "closedInArticle": false,
-    "locationMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
-    "locationAccuracy": "記事に記載の住所（下関市富任町一丁目6番5号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
-    "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
-    "locationLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      130.949632,
      33.958975
     ]
