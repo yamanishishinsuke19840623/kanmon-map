@@ -3624,6 +3624,32 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     130.946169,
+     33.956907
+    ]
+   },
+   "properties": {
+    "id": 8903,
+    "title": "デートにおすすめ！見つめ合う「恋人灯台」",
+    "url": "https://www.kanmonnote.com/lighthouse-shimonoseki/",
+    "date": "2018-04-07",
+    "place": "恋人灯台",
+    "address": "下関市唐戸町5",
+    "town": "唐戸町",
+    "area": "下関",
+    "category": "観光",
+    "closedInArticle": false,
+    "locationMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
+    "locationAccuracy": "記事に記載の住所（下関市唐戸町5番）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換した街区（番地のまとまり）の代表点。入口の位置ではありません",
+    "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
+    "locationLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      130.920773,
      33.956335
     ]
@@ -11294,6 +11320,32 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     130.924889,
+     33.895398
+    ]
+   },
+   "properties": {
+    "id": 28787,
+    "title": "１万円～ダンスレッスン受け放題！！「Aerial Yoga & Social Dance Studio FEEL」の安心の定額制で、ダイエット！ストレス解消！免疫力UP！美姿勢を手に入れよう！",
+    "url": "https://www.kanmonnote.com/feel-teigaku/",
+    "date": "2020-07-07",
+    "place": "Aerial Yoga & Social Dance Studio FEEL",
+    "address": "北九州市門司区社ノ木1丁目2-34",
+    "town": "門司区社ノ木",
+    "area": "門司",
+    "category": "習い事",
+    "closedInArticle": false,
+    "locationMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
+    "locationAccuracy": "記事に記載の住所（門司区社ノ木一丁目2番34号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
+    "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
+    "locationLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      130.96515,
      33.946605
     ]
@@ -13105,32 +13157,6 @@
     "closedInArticle": false,
     "locationMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
     "locationAccuracy": "記事に記載の住所（下関市長府中浜町8番23号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
-    "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
-    "locationLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     130.943098,
-     33.95997
-    ]
-   },
-   "properties": {
-    "id": 33110,
-    "title": "【開店】唐戸の新しいお花屋さん 「Ever Fresh 82.」",
-    "url": "https://www.kanmonnote.com/everfresh82/",
-    "date": "2021-09-09",
-    "place": "Ever Fresh82.",
-    "address": "下関市赤間町4-1-A",
-    "town": "赤間町",
-    "area": "下関",
-    "category": "お店（飲食以外）",
-    "closedInArticle": false,
-    "locationMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
-    "locationAccuracy": "記事に記載の住所（下関市赤間町4番1号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
     "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
     "locationLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工"
    }
@@ -15012,32 +15038,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     130.943098,
-     33.95997
-    ]
-   },
-   "properties": {
-    "id": 38619,
-    "title": "「Ever Fresh 82.」さんの、お正月アレンジメントのご予約、残り僅かです！",
-    "url": "https://www.kanmonnote.com/ever-2023/",
-    "date": "2022-12-27",
-    "place": "Ever Fresh 82.",
-    "address": "下関市赤間町4-1-A",
-    "town": "赤間町",
-    "area": "下関",
-    "category": "グルメ",
-    "closedInArticle": false,
-    "locationMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
-    "locationAccuracy": "記事に記載の住所（下関市赤間町4番1号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
-    "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
-    "locationLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      130.944108,
      33.956272
     ]
@@ -15731,6 +15731,32 @@
     "closedInArticle": false,
     "locationMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
     "locationAccuracy": "記事に記載の住所（下関市山の田東町2番32号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
+    "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
+    "locationLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.938598,
+     33.952565
+    ]
+   },
+   "properties": {
+    "id": 40315,
+    "title": "暑い日に飲みたくなる！見た目も味も抜群なスムージーをお試しください",
+    "url": "https://www.kanmonnote.com/uminone-smoothie/",
+    "date": "2023-07-08",
+    "place": "UMINONE Coffee Wine cellar",
+    "address": "下関市観音崎町10-11",
+    "town": "観音崎町",
+    "area": "下関",
+    "category": "カフェ",
+    "closedInArticle": false,
+    "locationMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
+    "locationAccuracy": "記事に記載の住所（下関市観音崎町10番11号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
     "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
     "locationLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工"
    }

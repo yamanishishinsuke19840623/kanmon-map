@@ -5845,31 +5845,6 @@
       "locationLevel": "住居"
     },
     {
-      "id": 38619,
-      "title": "「Ever Fresh 82.」さんの、お正月アレンジメントのご予約、残り僅かです！",
-      "url": "https://www.kanmonnote.com/ever-2023/",
-      "date": "2022-12-27",
-      "place": "Ever Fresh 82.",
-      "address": "下関市赤間町4-1-A",
-      "lat": 33.95997,
-      "lon": 130.943098,
-      "category": "グルメ",
-      "categories": [
-        "グルメ"
-      ],
-      "summary": "Ever Fresh 82.を紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
-      "status": "記事掲載時の情報・営業状況は要確認",
-      "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
-      "locationAccuracy": "記事に記載の住所（下関市赤間町4番1号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
-      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2022/12/5E7A8E85-5753-443C-B962-B7F12E2FF2FA.jpeg",
-      "area": "下関",
-      "matchMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
-      "sourceLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工",
-      "sourceLicenseUrl": "https://www.digital.go.jp/policies/base_registry_address_tos",
-      "evidence": "記事本文の住所欄「下関市赤間町4-1-A」",
-      "locationLevel": "住居"
-    },
-    {
       "id": 38500,
       "title": "ぷるんぷるんの豆乳わらびもちはお豆腐屋さんで。門司港の黒木商店に注目！",
       "url": "https://www.kanmonnote.com/kurokishoten-nitiniti/",
@@ -16092,31 +16067,6 @@
       "locationLevel": "地番"
     },
     {
-      "id": 33110,
-      "title": "【開店】唐戸の新しいお花屋さん 「Ever Fresh 82.」",
-      "url": "https://www.kanmonnote.com/everfresh82/",
-      "date": "2021-09-09",
-      "place": "Ever Fresh82.",
-      "address": "下関市赤間町4-1-A",
-      "category": "お店（飲食以外）",
-      "categories": [
-        "お店（飲食以外）"
-      ],
-      "summary": "Ever Fresh82.を紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
-      "status": "記事掲載時の情報・営業状況は要確認",
-      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2021/08/A4A4586-1.jpg",
-      "area": "下関",
-      "evidence": "記事本文の住所「下関市赤間町4-1-A」",
-      "lat": 33.95997,
-      "lon": 130.943098,
-      "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
-      "locationAccuracy": "記事に記載の住所（下関市赤間町4番1号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
-      "matchMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
-      "sourceLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工",
-      "sourceLicenseUrl": "https://www.digital.go.jp/policies/base_registry_address_tos",
-      "locationLevel": "住居"
-    },
-    {
       "id": 32610,
       "title": "【リニューアルオープン】靴からはじまる健康としあわせ「靴と中敷き調整のヤマツル長府店」",
       "url": "https://www.kanmonnote.com/yamatsuru-chofu/",
@@ -18090,6 +18040,81 @@
       "sourceLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工",
       "sourceLicenseUrl": "https://www.digital.go.jp/policies/base_registry_address_tos",
       "locationLevel": "街区"
+    },
+    {
+      "id": 40315,
+      "title": "暑い日に飲みたくなる！見た目も味も抜群なスムージーをお試しください",
+      "url": "https://www.kanmonnote.com/uminone-smoothie/",
+      "date": "2023-07-08",
+      "place": "UMINONE Coffee Wine cellar",
+      "address": "下関市観音崎町10-11",
+      "category": "カフェ",
+      "categories": [
+        "カフェ"
+      ],
+      "summary": "UMINONE Coffee Wine cellarを紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2023/07/IMG_9171-1.jpeg",
+      "area": "下関",
+      "evidence": "記事本文の住所「下関市観音崎町10-11」",
+      "lat": 33.952565,
+      "lon": 130.938598,
+      "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
+      "locationAccuracy": "記事に記載の住所（下関市観音崎町10番11号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
+      "matchMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
+      "sourceLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工",
+      "sourceLicenseUrl": "https://www.digital.go.jp/policies/base_registry_address_tos",
+      "locationLevel": "住居"
+    },
+    {
+      "id": 28787,
+      "title": "１万円～ダンスレッスン受け放題！！「Aerial Yoga & Social Dance Studio FEEL」の安心の定額制で、ダイエット！ストレス解消！免疫力UP！美姿勢を手に入れよう！",
+      "url": "https://www.kanmonnote.com/feel-teigaku/",
+      "date": "2020-07-07",
+      "place": "Aerial Yoga & Social Dance Studio FEEL",
+      "address": "北九州市門司区社ノ木1丁目2-34",
+      "category": "習い事",
+      "categories": [
+        "習い事"
+      ],
+      "summary": "Aerial Yoga & Social Dance Studio FEELを紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2020/06/image002.jpg",
+      "area": "門司",
+      "evidence": "記事本文の住所「北九州市門司区社ノ木1丁目2-34」",
+      "lat": 33.895398,
+      "lon": 130.924889,
+      "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
+      "locationAccuracy": "記事に記載の住所（門司区社ノ木一丁目2番34号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
+      "matchMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
+      "sourceLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工",
+      "sourceLicenseUrl": "https://www.digital.go.jp/policies/base_registry_address_tos",
+      "locationLevel": "住居"
+    },
+    {
+      "id": 8903,
+      "title": "デートにおすすめ！見つめ合う「恋人灯台」",
+      "url": "https://www.kanmonnote.com/lighthouse-shimonoseki/",
+      "date": "2018-04-07",
+      "place": "恋人灯台",
+      "address": "下関市唐戸町5",
+      "category": "観光",
+      "categories": [
+        "観光"
+      ],
+      "summary": "恋人灯台を紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
+      "status": "記事掲載時の情報・営業状況は要確認",
+      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2018/04/PicsArt_04-06-11.27.04.jpg",
+      "area": "下関",
+      "evidence": "記事本文の住所「下関市唐戸町5」",
+      "lat": 33.956907,
+      "lon": 130.946169,
+      "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
+      "locationAccuracy": "記事に記載の住所（下関市唐戸町5番）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換した街区（番地のまとまり）の代表点。入口の位置ではありません",
+      "matchMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
+      "sourceLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工",
+      "sourceLicenseUrl": "https://www.digital.go.jp/policies/base_registry_address_tos",
+      "locationLevel": "街区"
     }
   ],
   "dataLicense": {
@@ -18258,6 +18283,16 @@
       "id": 4101,
       "title": "【閉店】クラシックなパンケーキに会いに「cafe ＆ bar nine」",
       "reason": "位置名称と電話番号は整合するが、現記事タイトル【閉店】、本文冒頭「※cafe ＆ bar nineは閉店されました」のため除外。OSM amenity=cafe・営業時間記載は閉店情報を覆さない。"
+    },
+    {
+      "id": 38619,
+      "title": "【閉店】「Ever Fresh 82.」さんの、お正月アレンジメントのご予約、残り僅かです！",
+      "reason": "2026-10-30 読者から閉店の連絡（LINE）。記事タイトルを【閉店】に変更したため除外。"
+    },
+    {
+      "id": 33110,
+      "title": "【閉店】唐戸の新しいお花屋さん 「Ever Fresh 82.」",
+      "reason": "2026-10-30 読者から閉店の連絡（LINE）。記事タイトルを【閉店】に変更したため除外。"
     }
   ],
   "verification": "全1,540記事の公開APIを解析し、OSM名称照合後に候補のタイトル・店舗情報と施設包含関係を確認。Google座標転用なし。"
