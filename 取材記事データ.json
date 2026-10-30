@@ -5870,31 +5870,6 @@
       "locationLevel": "住居"
     },
     {
-      "id": 38231,
-      "title": "【開店】スイーツ界のクリエイター集団が下関に！ALLEY(アレイ)、あのフルーツサンド「ダイワ」も中国地方初出店。",
-      "url": "https://www.kanmonnote.com/open_alley/",
-      "date": "2022-11-29",
-      "place": "ALLEY",
-      "address": "下関市富任町1丁目6-5",
-      "lat": 34.018992,
-      "lon": 130.918893,
-      "category": "カフェ",
-      "categories": [
-        "カフェ"
-      ],
-      "summary": "ALLEYを紹介した取材記事です。掲載当時の様子は記事本文でご覧ください。",
-      "status": "記事掲載時の情報・営業状況は要確認",
-      "locationSource": "https://www.digital.go.jp/policies/base_registry_address",
-      "locationAccuracy": "記事に記載の住所（下関市富任町一丁目6番5号）をデジタル庁「アドレス・ベース・レジストリ」で位置に変換したその号（建物単位）の代表点。入口の位置ではありません",
-      "imageUrl": "https://www.kanmonnote.com/wp-content/uploads/2022/11/83BA549F-1B4D-41ED-AC09-46A3B97D780B.jpeg",
-      "area": "下関",
-      "matchMethod": "記事の住所とデジタル庁「アドレス・ベース・レジストリ」（住居表示・地番）の照合",
-      "sourceLicense": "「アドレス・ベース・レジストリ」（デジタル庁）を加工",
-      "sourceLicenseUrl": "https://www.digital.go.jp/policies/base_registry_address_tos",
-      "evidence": "記事本文の住所欄「下関市富任町1丁目6-5」",
-      "locationLevel": "住居"
-    },
-    {
       "id": 38003,
       "title": "豊前田にオープンした「スパイスと喫茶 ムチトアメ」 でスパイシーとあま～いを堪能",
       "url": "https://www.kanmonnote.com/muchitoame/",
